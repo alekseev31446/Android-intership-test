@@ -1,0 +1,10 @@
+#Tue Aug 01 01:19:59 EEST 2023
+base.0=/Users/mikolaalekseev/AndroidStudioProjects/Androidintershiptest/myapplication2/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/mikolaalekseev/AndroidStudioProjects/Androidintershiptest/myapplication2/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/mikolaalekseev/AndroidStudioProjects/Androidintershiptest/myapplication2/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

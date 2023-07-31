@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable star_off
+drawable star_on
+id cListItem
+id imageButton
+id imageView
+id likedRecyclerView
+id recyclerView
+id tabLayout
+id viewPager
+layout activity_main
+layout fragment_liked_list
+layout fragment_list
+layout liked_list_item
+layout list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+string like
+style Base.Theme.AndroidIntershipTest
+style Theme.AndroidIntershipTest
+xml file_paths

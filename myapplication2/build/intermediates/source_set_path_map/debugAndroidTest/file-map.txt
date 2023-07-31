@@ -1,0 +1,6 @@
+com.example.myapplication2.test.myapplication2-core-1.5.0-0 /Users/mikolaalekseev/.gradle/caches/transforms-3/154abdcec8c1023d46fe40b9b011ca35/transformed/core-1.5.0/res
+com.example.myapplication2.test.myapplication2-annotation-experimental-1.3.0-1 /Users/mikolaalekseev/.gradle/caches/transforms-3/952bf79db7f36005256a272bf66c0a99/transformed/annotation-experimental-1.3.0/res
+com.example.myapplication2.test.myapplication2-androidTest-2 /Users/mikolaalekseev/AndroidStudioProjects/Androidintershiptest/myapplication2/build/generated/res/resValues/androidTest/debug
+com.example.myapplication2.test.myapplication2-mergeDebugAndroidTestResources-3 /Users/mikolaalekseev/AndroidStudioProjects/Androidintershiptest/myapplication2/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.myapplication2.test.myapplication2-mergeDebugAndroidTestResources-4 /Users/mikolaalekseev/AndroidStudioProjects/Androidintershiptest/myapplication2/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.myapplication2.test.myapplication2-merged_res-5 /Users/mikolaalekseev/AndroidStudioProjects/Androidintershiptest/myapplication2/build/intermediates/merged_res/debugAndroidTest
